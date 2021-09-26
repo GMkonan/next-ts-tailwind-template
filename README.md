@@ -1,6 +1,10 @@
 # Template
 Twin.macro should be used with styled components.
-- https://www.npmjs.com/package/twin.macro
 
+## Tech
+- [NextJS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [twin.macro](https://www.npmjs.com/package/twin.macro)
 ### Author
 - GMkonan
